@@ -1,16 +1,137 @@
-# 💫 Hi 👋, I'm Muhammad Aoun
-**A passionate CS Student || from Pakistan**
+# 👋 Hi, I'm Muhammad Aoun
 
-Email Me 👉 ✉️ **maoun.778899@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+### Python Developer | AI & Machine Learning | Data Science | Full-Stack Development
 
-- 🔭 **I’m currently working on:** Back-end
-- 🌱 **I’m currently learning:** JS,SQL,DB....
-- 👯 **I’m looking to collaborate on:** Back-end
-- 🤔 **I’m looking for help with:**......
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** "maoun.778899@gmail.com"
-- 😄 **Pronouns:** Aoun
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+I'm a passionate developer from Pakistan who enjoys building practical software, AI-powered applications, and machine learning solutions.
+
+I work mainly with Python and have experience building ML models, AI applications, REST APIs, backend systems, data analysis projects, and mobile applications.
+
+📫 **Email:** maoun.778899@gmail.com
+
+---
+
+## 🚀 What I Do
+
+- 🤖 Machine Learning & AI Applications
+- 🐍 Python Development
+- 📊 Data Analysis & Visualization
+- 🔬 Predictive Modeling
+- 🌐 REST API & Backend Development
+- 📱 Flutter & Dart Development
+- 🗄️ Database Integration
+- 🔐 Authentication & JWT
+- 🔧 Git & GitHub
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+- Python
+- SQL
+- Dart
+- C++
+- JavaScript
+
+**AI & Data**
+- Machine Learning
+- Scikit-learn
+- Pandas
+- NumPy
+- XGBoost
+- NLP
+- Data Analysis
+- Feature Engineering
+- Data Visualization
+
+**Backend**
+- FastAPI
+- REST APIs
+- MySQL
+- Database Integration
+- JWT Authentication
+
+**Frontend & Mobile**
+- Flutter
+- Dart
+- Streamlit
+
+**Tools**
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+
+---
+
+## 💻 Featured Projects
+
+### 🤖 AI Career Assistant
+AI-powered application for resume and career analysis.
+
+- ATS resume scoring
+- Resume parsing
+- Job description matching
+- Skill gap analysis
+- Learning roadmaps
+- AI-powered resume analysis
+- PDF & DOCX processing
+- Google Gemini integration
+
+**Tech:** Python, Streamlit, Google Gemini, NLP, APIs
+
+### 🏥 Clinic Management System
+Full-stack clinic management application with a Flutter frontend and FastAPI backend.
+
+- Patient management
+- Doctor management
+- Appointment management
+- Authentication
+- JWT security
+- CRUD operations
+- REST API integration
+- MySQL database
+
+**Tech:** Flutter, Dart, Python, FastAPI, MySQL, REST APIs
+
+### 📈 Machine Learning Projects
+Hands-on projects involving:
+
+- Data cleaning
+- Exploratory Data Analysis
+- Feature engineering
+- Classification
+- Regression
+- Predictive modeling
+- Model evaluation
+- Time-series forecasting
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced Machine Learning
+- AI-powered applications
+- NLP
+- Computer Vision
+- Production APIs
+- Open Source Development
+- Cloud & Deployment
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on:
+
+- AI & Machine Learning projects
+- Python projects
+- Open Source
+- Data Science
+- Backend/API development
+- AI-powered applications
+
+📧 **Email:** maoun.778899@gmail.com
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muhammad.aoun.90226628) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/muhammad_aoun15/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-aoun-128104373/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maoun.778899@gmail.com) 
 
